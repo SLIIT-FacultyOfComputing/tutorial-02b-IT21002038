@@ -40,7 +40,7 @@ int main()
 
 
    netSalary = salary + otHrs* otRate;
-   cout<<"Net Salary is  ", netSalary;
+   cout<<"Net Salary is  "<<netSalary;
   
    return 0;
 }
