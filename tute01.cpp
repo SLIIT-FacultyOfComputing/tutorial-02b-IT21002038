@@ -20,6 +20,7 @@ printf("Hello World") --> std::cout << "Hello World";
 
 #include <iostream>
 #include<cstring>
+using namespace std;
 
 int main() 
 {
