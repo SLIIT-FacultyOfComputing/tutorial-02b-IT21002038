@@ -19,6 +19,6 @@ int main()
         fac = fac * r;
     }
 
-    cout<<"Factorial of  is "<< no<< fac;  
+    cout<<"Factorial of  is "<< no<<fac;  
     return 0;
 }
